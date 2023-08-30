@@ -1,0 +1,30 @@
+*{
+	text-align: center;
+	background-color: white;
+}
+button{
+	margin: 50px;
+	color: brown;
+	background-color: white;
+	height: 50px;
+	width: 120px;
+	border-radius: 20%;
+	font-size: medium;
+	font-weight: bolder;
+	background-color: skyblue;
+	position: relative;
+}
+img{
+	margin: auto;
+	height: 256px;
+	width: 256px;
+	background-color:white;
+}
+#close{
+	margin-left:20%;
+}
+button:hover{
+	color: aliceblue;
+	background-color: white;
+	cursor: pointer;
+}
